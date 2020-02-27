@@ -197,7 +197,7 @@ export default {
         { day: 24, stats: [5, 5, 4, 4], other: "休日" },
         { day: 25, stats: [1, 1, 1, 1], other: "24日02:30就寝" },
         { day: 26, stats: [1, 3, 1, 1], other: "サプリメント服用" },
-        { day: 27, stats: [1,1,2,1], other: "" },
+        { day: 27, stats: [1,1,2,1], other: " " },
         { day: 28, stats: [], other: "" },
         { day: 29, stats: [], other: "" }
       ];
