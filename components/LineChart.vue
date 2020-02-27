@@ -13,7 +13,6 @@
                 default: null
             }
         },
-
         mounted() {
             this.renderChart(this.chartData, this.options)
         }
